@@ -1,7 +1,7 @@
 from __init__ import CONN, CURSOR
 from department import Department
 
-import ipdb
+import ipdb # type: ignore
 
 
 def reset_database():
